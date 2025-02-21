@@ -28,19 +28,3 @@ Hello World!
 Hello World!
 Hello World!master test
 Hello World!hot-fix test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
